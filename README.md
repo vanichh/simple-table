@@ -1,3 +1,3 @@
-# reactable1
+# Простая таблица на React
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/reactable1)
+[Посмотреть код на StackBlitz](https://stackblitz.com/edit/reactable1)
