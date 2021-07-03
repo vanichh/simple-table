@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+td {
+  border: 1px solid red;
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+}
+button {
+  background-color: inherit;
+  border: 1px solid red;
+  padding: 5px;
+  width: 100%;
+}
